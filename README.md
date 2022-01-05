@@ -2,6 +2,7 @@
 # Mother Bot
 
 A discord bot to help manage CTF events.
+Reminds users of approaching events.
 
 
 ## Usage
