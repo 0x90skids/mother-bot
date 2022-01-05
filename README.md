@@ -1,3 +1,4 @@
+![alt text](mother.jpeg)
 # Mother Bot
 
 A discord bot to help manage CTF events.
